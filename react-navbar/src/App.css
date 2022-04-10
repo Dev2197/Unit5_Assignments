@@ -1,0 +1,30 @@
+.App {
+  height: 50px;
+  display: flex;
+  justify-content: space-around;
+  justify-items: center;
+  background-color: rgb(35,36,44);
+  /* border: 1px solid red; */
+}
+img{
+  height: 50px;
+}
+p{
+  margin-left: 10px;
+  margin-right: 10px;
+  color: white;
+  margin-bottom: -100px;
+}
+.links{
+  display: flex;
+}
+button{
+  height: 25px;
+  width: 100px;
+  margin-top: 10px;
+  border-radius: 10px;
+  border: none;
+  background-color: rgb(2,133,165);
+  color: white;
+}
+
