@@ -26,9 +26,9 @@ function Logo()
 }
 
 
-function Links(link)
+function Links({link})
 {
-  return <p className='links'>{link.link}</p>
+  return <p className='links'>{link}</p>
 }
 
 function Butt()
