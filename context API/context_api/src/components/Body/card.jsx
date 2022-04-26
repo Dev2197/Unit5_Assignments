@@ -7,5 +7,5 @@ export const Card = ()=>{
         {{width:"200px", height:"200px", padding:"10px", background:"yellow", margin:"auto"}}>
             <button onClick={()=>{handleChange(1)}}>Add to Cart</button>
         </div>
-    )
+    ) 
 }
